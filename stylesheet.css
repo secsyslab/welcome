@@ -113,12 +113,15 @@ header {
 
 div.left {
   width: 200px;
-  float: left
+  float: left;
+  background-color: rgba(248,240,230,0.3);
 }
 
 div.right {
   width: 800px;
-  float: left}
+  float: left;
+  background-color: rgba(248,240,230,0.3);
+}
 
 
 .lesson-wrapper {
