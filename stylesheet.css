@@ -112,12 +112,12 @@ header {
 }
 
 div.left {
-  width: 150px;
-  float:left
+  width: 200px;
+  float: left
 }
 
 div.right {
-  width: 200px;
+  width: 800px;
   float: left}
 
 
