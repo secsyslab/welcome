@@ -134,7 +134,16 @@ div.right {
 }
 
 .lesson-wrapper2 {
-  height: 2700px;
+  height: 2900px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.lesson-wrapper3 {
+  height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
