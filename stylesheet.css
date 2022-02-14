@@ -234,6 +234,18 @@ footer {
   clear: left;
 }
 
+p.nomal{
+ word-break: normal;
+}
+
+p.break{
+  word-break: break-all;
+}
+
+p.keep{
+  word-break: keep-all;
+}
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
