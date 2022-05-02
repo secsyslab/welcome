@@ -175,6 +175,15 @@ div.right {
   text-align: center;
 }
 
+.lesson-wrapper4 {
+  height: 1700px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
