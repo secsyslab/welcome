@@ -144,8 +144,13 @@ div.left {
 }
 
 div.right {
-  margin-left 150px;
   width: 800px;
+  float: left;
+  background-color: rgba(248,240,230,0.3);
+}
+
+div.right-member {
+  width: 950px;
   float: left;
   background-color: rgba(248,240,230,0.3);
 }
