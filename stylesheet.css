@@ -224,6 +224,10 @@ div.right {
   font-weight: normal;
 }
 
+.member-margin {
+   margin-left 150px;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
