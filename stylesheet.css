@@ -306,7 +306,7 @@ p.keep{
   }
 }
 
-@media all and (max-width: 9000px) {
+@media all and (max-width: 900px) {
   .header-right {
     display: none;
   }
