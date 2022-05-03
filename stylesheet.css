@@ -296,7 +296,7 @@ p.keep{
   }
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width: 950px) {
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -306,7 +306,7 @@ p.keep{
   }
 }
 
-@media all and (max-width: 670px) {
+@media all and (max-width: 9000px) {
   .header-right {
     display: none;
   }
