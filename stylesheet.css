@@ -144,6 +144,7 @@ div.left {
 }
 
 div.right {
+  margin-left 150px;
   width: 800px;
   float: left;
   background-color: rgba(248,240,230,0.3);
@@ -222,10 +223,6 @@ div.right {
 
 .heading h3 {
   font-weight: normal;
-}
-
-.member-margin {
-   margin-left 150px;
 }
 
 .message-wrapper {
