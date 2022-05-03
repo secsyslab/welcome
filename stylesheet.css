@@ -160,7 +160,7 @@ div.right {
 }
 
 .lesson-wrapper2 {
-  height: 2900px;
+  height: auto;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -169,7 +169,7 @@ div.right {
 }
 
 .lesson-wrapper3 {
-  height: 580px;
+  height: auto;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -178,7 +178,7 @@ div.right {
 }
 
 .lesson-wrapper4 {
-  height: 1700px;
+  height: auto;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
