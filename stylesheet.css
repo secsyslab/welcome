@@ -144,13 +144,13 @@ div.left {
 }
 
 div.right {
-  width: 800px;
+  width: 100%;
   float: left;
   background-color: rgba(248,240,230,0.3);
 }
 
 div.student-members {
-  width: 950px;
+  width: 100%;
   float: left;
   background-color: rgba(248,240,230,0.3);
 }
