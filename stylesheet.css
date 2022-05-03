@@ -288,7 +288,7 @@ p.keep{
   }
 
   .lesson-wrapper {
-    height: 990px;
+    height: auto;
   }
 
   footer {
@@ -340,7 +340,7 @@ p.keep{
   }
 
   .lesson-wrapper {
-    height: 1700px;
+    height: auto;
   }
 
   .message-wrapper .btn {
