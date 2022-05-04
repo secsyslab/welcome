@@ -316,7 +316,7 @@ p.keep{
     font-size: 32px;
   }
   
-   .top-thema3 h1 {
+  .top-thema3 h1 {
     font-size: 32px;
   }
   
@@ -338,15 +338,15 @@ p.keep{
     width: 100%;
   }
 
-   .top-thema1 .btn {
+  .top-thema1 .btn {
     width: 100%;
   }
   
-   .top-thema2 .btn {
+  .top-thema2 .btn {
     width: 100%;
   }
   
-   .top-thema3 .btn {
+  .top-thema3 .btn {
     width: 100%;
   }
   
@@ -359,7 +359,31 @@ p.keep{
     text-align: center;
   }
 
+  .top-thema1 {
+    text-align: center;
+  }
+  
+  .top-thema2 {
+    text-align: center;
+  }
+  
+  .top-thema3 {
+    text-align: center;
+  }
+  
   .top-wrapper h1 {
+    font-size: 24px;
+  }
+  
+  .top-thema1 h1 {
+    font-size: 24px;
+  }
+  
+  .top-thema2 h1 {
+    font-size: 24px;
+  }
+  
+  .top-thema3 h1 {
     font-size: 24px;
   }
 
@@ -367,6 +391,18 @@ p.keep{
     font-size: 14px;
   }
 
+  .top-thema1 p {
+    font-size: 14px;
+  }
+  
+  .top-thema2 p {
+    font-size: 14px;
+  }
+  
+  .top-thema3 p {
+    font-size: 14px;
+  }
+  
   .lesson {
     width: 100%;
   }
