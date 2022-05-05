@@ -191,6 +191,17 @@ div.student-members {
   background-color: rgba(248,240,230,0.3);
 }
 
+.page {
+  position: relative;
+}
+.page .page_imageLeft {
+  position: absolute;
+  left: 0;
+}
+.page .page_imageRight {
+  position: absolute;
+  right: 0;
+}
 
 .lesson-wrapper {
   height: auto;
