@@ -328,7 +328,7 @@ footer {
 .sub-menu > ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 5px;
   width: 150px;
 }
 
@@ -338,6 +338,7 @@ footer {
 }
 
 .menu-icon:hover .sub-menu {
+  color: green;
   display: inline-block;
 }
 
