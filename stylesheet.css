@@ -339,6 +339,8 @@ footer {
 }
 
 .menu-icon:hover .sub-menu {
+  background-color:blue;
+  color:black;
   display: inline-block;
 }
 
