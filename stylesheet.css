@@ -334,7 +334,7 @@ footer {
 
 .sub-menu > ul > li > a {
   text-decoration: none;
-  display: inline-block;
+  display: block;
   color: #ffffff;
 }
 
