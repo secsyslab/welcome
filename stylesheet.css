@@ -319,6 +319,28 @@ footer {
   display: none;
 }
 
+.sub-menu {
+  display: none;
+  background: #B9B9B9;
+  position: relative;
+}
+
+.sub-menu > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 300px;
+}
+
+.sub-menu > ul > li > a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.menu-icon:hover .sub-menu {
+  display: inline-block;
+}
+
 .clear {
   clear: left;
 }
