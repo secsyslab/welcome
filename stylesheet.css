@@ -314,7 +314,6 @@ footer {
 .menu-icon {
   color: white;
   float: right;
-  font-size: 15px;
   padding: 21px 0;
   display: none;
 }
@@ -330,7 +329,7 @@ footer {
   list-style: none;
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 150px;
 }
 
 .sub-menu > ul > li > a {
@@ -338,7 +337,8 @@ footer {
   color: #ffffff;
 }
 
-.sub-menu:hover {
+.a:hover {
+  color: green;
   display: inline-block;
 }
 
