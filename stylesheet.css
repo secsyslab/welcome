@@ -337,7 +337,7 @@ footer {
   color: #ffffff;
 }
 
-.sub-menu:hover  {
+.sub-menu:hover a {
   display: inline-block;
 }
 
