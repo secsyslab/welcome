@@ -343,8 +343,8 @@ footer {
 }
 
 .sub-menu:hover .a {
-  back-groundcolor: blue
-  color: black
+  back-groundcolor: blue;
+  color: black;
   display: block;
 }
 
