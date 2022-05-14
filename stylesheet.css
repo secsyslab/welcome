@@ -286,9 +286,9 @@ div.student-members {
 
 .message {
   padding: 15px 40px;
-  background-color: #e6e6fa;
+  background-color: #b0c4de;
   cursor: pointer;
-  box-shadow: 0px 7px #1a7940;
+  box-shadow: 0px 7px #e6e6fa;
 }
 
 .message:active {
